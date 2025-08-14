@@ -25,7 +25,7 @@ Benchmarks show significant performance improvements over equivalent Python impl
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/rust-neural-network.git
+git clone https://github.com/axion-project/rust-neural-network.git
 cd rust-neural-network
 cargo build --release
 ```
